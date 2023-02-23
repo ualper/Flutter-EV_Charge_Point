@@ -1,0 +1,76 @@
+ [
+    {
+        "name": "Şifa",
+        "location": "34950 Tuzla/İstanbul",
+        "lat": "40.818777",
+        "lng": "29.360296",
+        "types": ["Type 2","CHAdeMO"],
+        "power":"3.7 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    },
+    {
+        "name":  "Tosb Otomotiv Osb",
+        "location": "Çayırova/Kocaeli",
+        "lat": "40.874387", 
+        "lng": "29.392559",
+        "type": ["CCS 2","Type 2","CHAdeMO"],
+        "power":"7.4 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    },
+
+    {
+        "name":  "Cumhuriyet",
+        "location": "34876 Kartal/İstanbul",
+        "lat": "40.903170", 
+        "lng": "29.216784",
+        "type": ["CHAdeMO","CCS 2","Type 3"],
+        "power":"3.7 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    },
+
+    {
+        "name":  "Uğurmumcu",
+        "location": "34882 Kartal/İstanbul",
+        "lat": "40.942101", 
+        "lng": "29.213136",
+        "type": ["Type 3","CHAdeMO"],
+        "power":"7.4 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    },
+    {
+        "name":  "Aydınevler",
+        "location": "34854 Maltepe/İstanbul",
+        "lat": "40.956049", 
+        "lng": "29.115560",
+        "type": ["CCS 1","CCS 2","CHAdeMO"],
+        "power":"3.7 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    },
+    {
+        "name":  "Köşklü Çeşme",
+        "location": "41400 Gebze/Kocaeli",
+        "lat": "40.795482", 
+        "lng": "29.392087",
+        "type": ["CCS 2","Type 3","CHAdeMO"],
+        "power":"7.4 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    },
+
+    { 
+        "name": "Güzelyalı",
+        "location": "34903 Pendik/İstanbul",
+        "lat": "40.857590",
+        "lng": "29.286983",
+        "type": ["Type 3","CCS 1","CHAdeMO"],
+        "power":"3.7 kw",
+        "provider": "store/mall/restaurant",
+        "status": "6 status"
+    }
+ ]
+ 

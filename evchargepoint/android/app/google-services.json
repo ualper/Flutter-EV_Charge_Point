@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537069224454",
+    "firebase_url": "https://evchargepoint-adef7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "evchargepoint-adef7",
+    "storage_bucket": "evchargepoint-adef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537069224454:android:a7ef013f1dee4394c37987",
+        "android_client_info": {
+          "package_name": "com.ualper.evchargepoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537069224454-649pmdo775ktfts85d8nt6tvgh9dnpf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA94ZkkEjhS88GqF_6CuVtQtU_AQA1pbow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537069224454-649pmdo775ktfts85d8nt6tvgh9dnpf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

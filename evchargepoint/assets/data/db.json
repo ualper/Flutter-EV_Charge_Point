@@ -1,0 +1,81 @@
+{
+    "stations": [
+        {
+            "id": 1,
+            "name": "Şifa",
+            "locationName": "34950 Tuzla/İstanbul",
+            "latitude": "40.818777",
+            "longitude": "29.360296",
+            "type": "Type 2",
+            "power": "3.7 kw",
+            "provider": "restaurant",
+            "status": "available"
+        },
+        {
+            "id": 2,
+            "name": "Tosb Otomotiv Osb",
+            "locationName": "Çayırova/Kocaeli",
+            "latitude": "40.874387",
+            "longitude": "29.392559",
+            "type": "CCS 2",
+            "power": "7.4 kw",
+            "provider": "shop",
+            "status": "busy"
+        },
+        {
+            "id": 3,
+            "name": "Cumhuriyet",
+            "locationName": "34876 Kartal/İstanbul",
+            "latitude": "40.903170",
+            "longitude": "29.216784",
+            "type": "CHAdeMO",
+            "power": "3.7 kw",
+            "provider": "mall",
+            "status": "available"
+        },
+        {
+            "id": 4,
+            "name": "Uğurmumcu",
+            "locationName": "34882 Kartal/İstanbul",
+            "latitude": "40.942101",
+            "longitude": "29.213136",
+            "type": "Type 3",
+            "power": "7.4 kw",
+            "provider": "store",
+            "status": "available"
+        },
+        {
+            "id": 5,
+            "name": "Aydınevler",
+            "locationName": "34854 Maltepe/İstanbul",
+            "latitude": "40.956049",
+            "longitude": "29.115560",
+            "type": "CCS 1",
+            "power": "3.7 kw",
+            "provider": "restaurant",
+            "status": "busy"
+        },
+        {
+            "id": 6,
+            "name": "Köşklü Çeşme",
+            "locationName": "41400 Gebze/Kocaeli",
+            "latitude": "40.795482",
+            "longitude": "29.392087",
+            "type": "CCS 2",
+            "power": "7.4 kw",
+            "provider": "mall",
+            "status": "available"
+        },
+        {
+            "id": 7,
+            "name": "Güzelyalı",
+            "locationName": "34903 Pendik/İstanbul",
+            "latitude": "40.857590",
+            "longitude": "29.286983",
+            "type": "Type 3",
+            "power": "3.7 kw",
+            "provider": "shop",
+            "status": "offline"
+        }
+    ]
+}
